@@ -69,5 +69,5 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating to 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the W9 Labs Team.</sub>
+  <sub>Built with ❤️ by the W9 Labs.</sub>
 </div>
