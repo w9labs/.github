@@ -69,7 +69,7 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before participating to 
 ---
 ## Sponsorship
 
-W9 Tools is community-funded. Two core partners currently cover operational costs:
+W9 Tools is community-funded. These companies are currently sponsoring W9 Labs:
 
 | Sponsor | Contribution |
 |---------|-------------|
